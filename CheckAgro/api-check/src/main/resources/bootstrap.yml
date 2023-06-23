@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: api-check
+  cloud:
+    config:
+      url: https://localhost:8888
